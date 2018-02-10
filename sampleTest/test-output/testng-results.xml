@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1676" started-at="2018-02-10T11:43:30Z" finished-at="2018-02-10T11:43:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1676" started-at="2018-02-10T11:43:30Z" finished-at="2018-02-10T11:43:32Z">
+      <class name="RestAssuredFramework.sampleTest.tests.deleteUserTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:RestAssuredFramework.sampleTest.tests.deleteUserTest@5cb9f472]" name="setup" is-config="true" duration-ms="397" started-at="2018-02-10T17:13:30Z" finished-at="2018-02-10T17:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:RestAssuredFramework.sampleTest.tests.deleteUserTest@5cb9f472]" name="deleteUser" duration-ms="1246" started-at="2018-02-10T17:13:30Z" finished-at="2018-02-10T17:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- RestAssuredFramework.sampleTest.tests.deleteUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
