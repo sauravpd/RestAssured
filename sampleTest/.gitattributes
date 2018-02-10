@@ -1,3 +1,2 @@
 static/* linguist-vendored
-mvnw.cmd linguist-generated=true
-mvnw linguist-generated=true
+*.html linguist-language=Java
