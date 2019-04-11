@@ -23,7 +23,8 @@ public class deleteUserTest
 	public static Logger LOG = Logger.getLogger(updateUserTest.class);
 
 	@BeforeMethod
-	public void setup() {
+	public void setup()
+	{
 		RestAssured.baseURI = "http://localhost:3000";
 	}
 
